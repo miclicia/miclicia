@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Backend Dev from Jaboatão/PE, Brazil.
+  My name is Michelle but call me Mitch! I am a Backend Dev from Jaboatão/PE, Brazil.
 I've been working on IT area for +2 years and my biggest experience is with Information Security in Access management. 
   </p>
   
