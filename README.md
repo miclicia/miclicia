@@ -3,8 +3,8 @@
 </h1>
 
 <p align='center'>
-  My name is Michelle but call me Mitch! I am a Backend Dev from Jaboatão/PE, Brazil.
-I've been working on IT area for +2 years and my biggest experience is with Information Security in Access management. 
+  My name is Michelle but call me Mitch! I am a Security Analyst and Backend Dev Student from Jaboatão/PE, Brazil.
+I've been working on IT area for +2 years and my biggest experience is with Information Security in Access management and audits. 
   </p>
   
   
