@@ -13,7 +13,7 @@ I've been working on IT area for +3 years and my biggest experience is with Iden
   <a href="https://www.linkedin.com/in/michellelicia/">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/michellelicia.ofc">
+  <a href="https://instagram.com/michelleliciaoficial">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
